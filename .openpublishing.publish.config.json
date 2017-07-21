@@ -17,6 +17,7 @@
         "UniversalReference": "Content",
         "LandingData": "Content",
         "APIConnector": "Content"
+        "LandingData": "Content",
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
